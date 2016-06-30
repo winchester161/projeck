@@ -1,0 +1,28 @@
+body {
+    background: #f4f4f4;
+    color: #757575;
+    font-family: 'Alegreya Sans', sans-serif;
+    letter-spacing: 5px;
+    padding-bottom: 60px;
+}
+div {
+    background: #f4f4f4;
+    color: #757575;
+    font-family: 'Alegreya Sans', sans-serif;
+    letter-spacing: 2px;
+    padding-bottom: 60px;
+}
+
+h1 {
+    font-size: 2em;
+    font-weight: bolder;
+    text-transform: uppercase;
+    color: #000;
+    margin: 0;
+}
+
+h2 {
+    font-size: 1.3em;
+    background: #fcfcfc;
+    padding: 10px;
+}
